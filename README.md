@@ -10,3 +10,7 @@ Agradecimientos
 ============
 A nuestro profesor Enriz Mieza, por facilitarnos la base de la tienda.
 [Link a su repositorio de github](https://github.com/emieza)
+
+App funcionando en prueba
+============
+[Link a heroku](https://djangolluis.herokuapp.com/)
