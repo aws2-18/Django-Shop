@@ -8,4 +8,5 @@ Te bajas el repositorio, activas el source, haces un python manage.py migrate, y
 
 Agradecimientos
 ============
-[Nuestro profesor Enric Mieza, por facilitarnos la base de la tienda](https://github.com/emieza)
+A nuestro profesor Enriz Mieza, por facilitarnos la base de la tienda.
+[Link a su repositorio de github](https://github.com/emieza)
